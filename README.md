@@ -56,10 +56,10 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+#### Name: [KodeInt](GitHub link)
+- Place: Hyderabad, Telangane, India
+- Bio: I'm a beginner. This is my first attempt on Github
+- GitHub: [KodeInt](GitHub link)
 ```
 
 ### 2. Add a profile page
@@ -131,4 +131,4 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com).
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
